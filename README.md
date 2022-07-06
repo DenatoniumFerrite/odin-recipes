@@ -1,1 +1,1 @@
-project description
+Test recipe website with pages, basic html elements, and CSS styling.
